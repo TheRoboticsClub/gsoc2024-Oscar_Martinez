@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "TFG Óscar Martínez Martínez"
+title                    : "Óscar Martínez Martínez GSoC blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Óscar Martínez Martínez"
@@ -24,7 +24,7 @@ description              : "Web-based development of robotic apps using Behavior
 
 url                      : https://roboticslaburjc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : https://github.com/RoboticsLabURJC/2023-tfg-oscar-martinez # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : https://github.com/TheRoboticsClub/gsoc2024-Oscar_Martinez # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/logo.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -113,9 +113,9 @@ social:
 # Site Author
 author:
   name             : "Óscar Martínez Martínez"
-  avatar           : "/assets/images/foto.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Robotics Software Engineer"
-  location         : "Madrid, Spain"
+  location         : "Barcelona, Spain"
   email            : "oscar.robotics@tutanota.com"
   links:
     #- label: "Email"
