@@ -37,7 +37,7 @@ Throughout my GSoC contribution, I actively participated in community discussion
 
 All my contributions have been merged upstream, and multilevel composition (allowing subtrees to contain other subtrees at any depth) is now fully functional. This feature works seamlessly with both offline apps (executed directly on ROS 2 Humble) and in the [dockerized execution environment of JdeRobot](https://hub.docker.com/r/jderobot/robotics-academy). 
 
-You can see an example of how the composition tools and the library work in this video I created showcasing my contributions. 
+You can see an example of how the composition tools and the library work in this [video](https://youtu.be/3t_r88cMECU) I created showcasing my contributions. 
 
 # Future work
 
